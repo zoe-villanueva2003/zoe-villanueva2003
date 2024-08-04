@@ -1,7 +1,6 @@
 - 👋 Hi, I’m  Zoe Villanueva from Belize !!!
 - 👀 I’m interested in coding, 3d modelling, traditional & graphic art, photography, crocheting,  music production and learning instruments. 
-- 🌱 I’m currently learning web development, cybersecurity and brushing up on some skills hehe. 
-- 💞️ I’m looking to collaborate on nothing, leave me alone
+- 🌱 I’m currently learning web development, cybersecurity and brushing up on some skills. 
 - 📫 How to reach me instagram: _zoehhh
 
 <!---
